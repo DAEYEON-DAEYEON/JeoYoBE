@@ -15,3 +15,12 @@
 
 ## API(main/View/API.py)
 ![image](https://github.com/user-attachments/assets/e50fe65a-0d23-4339-baba-c0e8d4eaf09e)
+![image](https://github.com/user-attachments/assets/427396f2-9fd7-48ea-9aff-51ed0e0535f3)
+![image](https://github.com/user-attachments/assets/70a168e0-680f-41bd-a84f-73216e4d7687)
+![image](https://github.com/user-attachments/assets/f0839082-9565-466c-a037-0e4b94a99f36)
+![image](https://github.com/user-attachments/assets/39509b8d-4505-4d06-a3e6-922b44a2dc20)
+![image](https://github.com/user-attachments/assets/cd0d24eb-27b1-4f6d-86d6-d68e01dad36c)
+![image](https://github.com/user-attachments/assets/bee76483-415b-467c-893c-90bcc3374057)
+![image](https://github.com/user-attachments/assets/3a2105a5-d467-4902-ba60-a032e80fbbe9)
+![image](https://github.com/user-attachments/assets/59d6b618-5531-4c88-b3aa-1b0e9b633c09)
+![image](https://github.com/user-attachments/assets/b751a904-3837-4603-8c99-9943d23cae77)
