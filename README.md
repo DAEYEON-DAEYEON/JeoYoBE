@@ -14,6 +14,8 @@
 
 
 ## API(main/View/API.py)
+> Rest API 사용.
+
 ### 모아보기
 ![image](https://github.com/user-attachments/assets/e50fe65a-0d23-4339-baba-c0e8d4eaf09e)
 ### Register, Login
