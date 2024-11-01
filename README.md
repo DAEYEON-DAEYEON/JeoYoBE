@@ -7,7 +7,11 @@
 ![image](https://github.com/user-attachments/assets/ba470a0f-7d47-4b7a-ba71-6db25fdd9947)
 ![image](https://github.com/user-attachments/assets/1dbeb2c8-384b-4312-96d2-015e238502be)
 
-(장고에서의 세션과, Model에 대한 Migration을 위한 단독의 테이블) 
+(장고에서의 Auth, Session, Model에 대한 Migration을 위한 테이블들) 
 
 #### 프로젝트에서 사용되는, 직접 설계한 ERD
 ![image](https://github.com/user-attachments/assets/bbac7597-62f3-4ef9-b27b-b7f8641e0c06)
+
+
+### API(main/View/API.py)
+![image](https://github.com/user-attachments/assets/e50fe65a-0d23-4339-baba-c0e8d4eaf09e)
