@@ -10,8 +10,8 @@
 (장고에서의 Auth, Session, Model에 대한 Migration을 위한 테이블들) 
 
 #### 프로젝트에서 사용되는, 직접 설계한 ERD
-![image](https://github.com/user-attachments/assets/bbac7597-62f3-4ef9-b27b-b7f8641e0c06)
+![image](https://github.com/user-attachments/assets/b5f233ae-3dc3-4d0a-b142-67e30721a6c1)
 
 
-### API(main/View/API.py)
+## API(main/View/API.py)
 ![image](https://github.com/user-attachments/assets/e50fe65a-0d23-4339-baba-c0e8d4eaf09e)
